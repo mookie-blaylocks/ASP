@@ -2,5 +2,7 @@
 *.pyc
 agents_*
 atoms_*
+convo_*
 rules_*
 temp*
+query.pl
