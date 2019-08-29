@@ -1,0 +1,6 @@
+*~
+*.pyc
+agents_*
+atoms_*
+rules_*
+temp*
